@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center"> Porfolio </h1>
+<h1 align="center"> Portfolio </h1>
 
 <!-- INTRO: banner, languages and brief description -->
 <p align="center">
