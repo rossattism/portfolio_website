@@ -3,8 +3,6 @@
 
 <!-- INTRO: banner, languages and brief description -->
 <p align="center">
-<a href=""> <img src="https://img.shields.io/badge/lang-en-white" alt="english language badge"></a> 
-<a href=""> <img src="https://img.shields.io/badge/lang-es-white" alt="spanish language badge"></a> <br />
 <i> Repository of my first digital graphic designer portfolio </i> <br />
 </p>
 
