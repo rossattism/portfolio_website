@@ -17,7 +17,7 @@
 >I created this website to demonstrate some of the skills I have learned in front-end web design, while also linking it to a portfolio showcasing some of my work as a professional in the field.
 
 <!-- BODY -->
-## Header
+## Website
 You can check the website <a href="https://rossattism.github.io/portfolio_website/"> here </a>
 
 
